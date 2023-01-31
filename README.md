@@ -16,3 +16,5 @@ I like **cricket** beacuse the game consists of **12 players**.In cricket game w
 * Gujarat warriors
 * Mumbai Indians
 
+[Link to AboutMe file](https://github.com/SSrinivasaRaju/assignment2_Sarikonda/blob/main/AboutMe.md)
+
