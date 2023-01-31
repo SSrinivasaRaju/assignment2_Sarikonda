@@ -11,3 +11,8 @@ I like **cricket** beacuse the game consists of **12 players**.In cricket game w
    1. virat kohli
    2. A.B.Develiers
    3. Cris gayle
+* Chennai Super Kings
+* Kolkatta knight riders
+* Gujarat warriors
+* Mumbai Indians
+
