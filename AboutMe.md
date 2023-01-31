@@ -13,3 +13,8 @@ I'm helping nature person.
 | China | To see Great wall of China | 4 |
 | USA | To see Statue of liberty | 15 |
 
+----
+## pithy qoutes
+>I would like to live a poor man only with lots of money.  *pablo Picasso*
+
+>laugh and the world laughs with you,snore and you sleep alone.  *Anthony Burgess*
