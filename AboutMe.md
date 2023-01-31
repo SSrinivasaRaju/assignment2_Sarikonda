@@ -24,6 +24,7 @@ I'm helping nature person.
 ### code fencing Section
 
 >How do I make my website fit all screen sizes?
+
 [Link to article](https://stackoverflow.com/questions/75302385/how-do-i-make-my-website-fit-all-screen-sizes)
 
 ```
